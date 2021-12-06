@@ -1,0 +1,249 @@
+body {
+    margin: 0;
+}    
+.logo {
+    width: 101vw;
+    height: 21vh;
+    background-color: #F40F54;
+    position: relative;
+}
+.nav-enlace1:hover {
+    background-color: #F7BDD5;
+}
+.nav-enlace2:hover {
+    background-color: #F7BDD5;
+}
+.nav-enlace3:hover {
+    background-color: #F7BDD5;
+}
+.nav-enlace4:hover {
+    background-color: #F7BDD5;
+}
+.navbar {
+    position: absolute;
+    top: 69px;
+    right: 1050px;       
+}   
+.nav-enlace1 {
+    background-color: white;
+    color: #3A2762;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-decoration: none;        
+}
+.navbar2 {
+    position: absolute;
+    top: 69px;
+    right: 750px;       
+}   
+.nav-enlace2 {
+    background-color: white;
+    color: #3A2762;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-decoration: none;        
+}
+.navbar3 {
+    position: absolute;
+    top: 69px;
+    right: 450px;       
+}   
+.nav-enlace3 {
+    background-color: white;
+    color: #3A2762;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-decoration: none;        
+}
+.navbar4 {
+    position: absolute;
+    top: 69px;
+    right: 150px;       
+}   
+.nav-enlace4 {
+    background-color: white;
+    color: #3A2762;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-decoration: none;        
+}
+.hero {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.hero-content {
+    background-color: #3A2762;
+    width: 600px;
+    height: 500px;
+    position: absolute;
+    left: 64px;
+    bottom: 19%;
+    margin-bottom: -150px;
+    border-radius: 50px;
+}
+.herobutton {
+    position: absolute;
+    bottom: 69px;
+    left: 191px;       
+}
+.button {
+    background-color: #56447c;
+    color: white;
+    padding: 30px 80px;
+    border-radius: 10px;
+    text-decoration: none;        
+}
+.Texto {
+    position: absolute;
+    bottom: 275px;
+    left: 150px;
+    color: white
+}
+.Texto2 {
+    position: absolute;
+    bottom: 150px;
+    left: 150px;
+    color: white
+}
+.button:hover {
+    background-color: #A37AF4;
+}
+.promotions {
+    top: 1000px;
+    background-color: wheat;
+    color: tomato;
+}    
+.content {
+    background-color: #F40F54;    
+}    
+.libros {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #F40F54;
+}
+.cuadro {
+    padding: 4%;
+    flex-grow: 10;
+    flex-basis: 20%;
+
+}
+.imagen {
+    max-width: 60%;
+    margin: auto;    
+}
+.infolibro {
+    margin: auto;
+    color: white;
+    background-color: white;
+    color: #3A2762;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-decoration: none;   
+}
+.comprar1 {
+    background-color: #3A2762;
+    color: white;
+    padding: 20px 141px;
+    border-radius: 10px;
+    text-decoration: none;      
+}
+.comprar1:hover {
+    background-color: #A37AF4;
+}
+.comprar2 {
+    background-color: #3A2762;
+    color: white;
+    padding: 20px 141px;
+    border-radius: 10px;
+    text-decoration: none;      
+}
+.comprar2:hover {
+    background-color: #A37AF4;
+}
+.comprar3 {
+    background-color: #3A2762;
+    color: white;
+    padding: 20px 141px;
+    border-radius: 10px;
+    text-decoration: none;      
+}
+.comprar3:hover {
+    background-color: #A37AF4;
+}
+.comprar4 {
+    background-color: #3A2762;
+    color: white;
+    padding: 20px 141px;
+    border-radius: 10px;
+    text-decoration: none;      
+}
+.comprar4:hover {
+    background-color: #A37AF4;
+}
+.comprar5 {
+    background-color: #3A2762;
+    color: white;
+    padding: 20px 141px;
+    border-radius: 10px;
+    text-decoration: none;      
+}
+.comprar5:hover {
+    background-color: #A37AF4;
+}
+.comprar6 {
+    background-color: #3A2762;
+    color: white;
+    padding: 20px 141px;
+    border-radius: 10px;
+    text-decoration: none;      
+}
+.comprar6:hover {
+    background-color: #A37AF4;
+}
+.comprar7 {
+    background-color: #3A2762;
+    color: white;
+    padding: 20px 141px;
+    border-radius: 10px;
+    text-decoration: none;      
+}
+.comprar7:hover {
+    background-color: #A37AF4;
+}
+.comprar8 {
+    background-color: #3A2762;
+    color: white;
+    padding: 20px 141px;
+    border-radius: 10px;
+    text-decoration: none;      
+}
+.comprar8:hover {
+    background-color: #A37AF4;
+}
+.comprar9 {
+    background-color: #3A2762;
+    color: white;
+    padding: 20px 141px;
+    border-radius: 10px;
+    text-decoration: none;      
+}
+.comprar9:hover {
+    background-color: #A37AF4;
+}
+.Marca{
+    position: absolute;
+    bottom: -2200px;
+    left: 550px;         
+}
+.libroslupa{
+width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    object-fit: cover;
+}    
+   
+    
+    
